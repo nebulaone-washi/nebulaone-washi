@@ -1,4 +1,5 @@
 ![Banner](https://i.imgur.com/kMVHkfK.png)
+[![Custom Shield](https://raw.githubusercontent.com/nebulaone-washi/nebulaone-washi/main/ospl.svg)](https://www.nebulaone.org/license.html)
 
 ## About Me
 Hello! My name is Harvey, but you can call me Harvs. I use he/him/his pronouns.
